@@ -1,0 +1,107 @@
+body
+{
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: papyrus;
+    background-image: url(algorithmes.jpg);
+}
+h1
+{
+    text-align: center;
+    padding-top: 10px;
+    font-size: 45;
+    font-family: papyrus;
+    color: white;
+}
+#bouton
+{
+    background-color: white;
+    color: black;
+    border: 2px solid #f44336;
+    font-size: 15px;
+    width: 15%;
+}
+#bouton:hover {
+    background-color: #f44336;
+    color: white;
+}
+#bouton1
+{
+    margin-left: 5%;
+    font-size: 20px;
+    background-color: white;
+    color: black;
+    border: 2px solid #f44336;
+}
+#bouton1:hover {
+    background-color: #f44336;
+    color: white;
+}
+#footer
+{
+    position: static;
+    margin-top: 100;
+    bottom: 1%;
+    position: absolute;
+    margin-left: 75%;
+    color: white;
+}
+#reel
+{
+    margin-left: 40px;
+}
+p1
+{
+    color: white;
+    text-align: center;
+    background: darkred;
+    width: 80%;
+}
+
+#fieldset1
+{
+    border: 5px groove red;
+    border-radius: 15%;
+}
+#legend1
+{
+    color: white;
+    font-size: 25px;
+    font-family: papyrus;
+}
+legend
+{
+    margin-left: 5%;
+    color: white;
+    font-size: 25px;
+    font-family: papyrus;
+}
+#form1
+{
+    margin-top: 5%;
+    text-align: center;
+    width: 30%;
+    margin-left: 36%;
+}
+#myCanvas
+{
+    margin-left: 33.75%;
+}
+#message
+{
+    margin-left: 36%;
+    color: white;
+    text-align: center;
+    background: darkred;
+    width: 30%;
+}
+
+#message1
+{
+    color: white;
+    text-align: center;
+    background: darkred;
+    width: 30%;
+    margin-left: 36%;
+}
